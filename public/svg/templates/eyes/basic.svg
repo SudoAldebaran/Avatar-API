@@ -1,0 +1,19 @@
+<svg width="200" height="250" viewBox="0 0 200 250" xmlns="http://www.w3.org/2000/svg">
+  <g id="basic-eyes">
+    <!-- Œil gauche -->
+    <ellipse cx="75" cy="100" rx="15" ry="10" fill="white" stroke="#000" stroke-width="1"/>
+    <circle cx="75" cy="100" r="8" class="iris" fill="#4A90E2"/>
+    <circle cx="77" cy="98" r="3" fill="#000"/>
+    <circle cx="78" cy="97" r="1" fill="white"/>
+
+    <!-- Œil droit -->
+    <ellipse cx="125" cy="100" rx="15" ry="10" fill="white" stroke="#000" stroke-width="1"/>
+    <circle cx="125" cy="100" r="8" class="iris" fill="#4A90E2"/>
+    <circle cx="127" cy="98" r="3" fill="#000"/>
+    <circle cx="128" cy="97" r="1" fill="white"/>
+
+    <!-- Sourcils -->
+    <path d="M 65 85 Q 75 80 85 85" stroke="#8B4513" stroke-width="3" fill="none"/>
+    <path d="M 115 85 Q 125 80 135 85" stroke="#8B4513" stroke-width="3" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
+  <g id="smile-mouth">
+    <!-- Un sourire simple -->
+    <path d="M80,160 Q100,180 120,160" stroke="black" stroke-width="3" fill="none"/>
+  </g>
+</svg>

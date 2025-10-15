@@ -1,0 +1,17 @@
+<svg width="200" height="250" viewBox="0 0 200 250" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Forme de la tête (sera colorée dynamiquement) -->
+  <ellipse id="face" cx="100" cy="125" rx="80" ry="100" fill="#F5C6A0" stroke="#000" stroke-width="2"/>
+  
+  <!-- Conteneur pour les yeux -->
+  <g id="eyes">
+    <!-- Les yeux seront ajoutés ici -->
+  </g>
+  
+  <!-- Conteneur pour les cheveux -->
+  <g id="hair">
+    <!-- Les cheveux seront ajoutés ici -->
+  </g>
+
+  <g id="mouth">
+  </g>
+</svg>

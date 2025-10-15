@@ -1,0 +1,14 @@
+<svg width="200" height="250" viewBox="0 0 200 250" xmlns="http://www.w3.org/2000/svg">
+  <g id="eyes-sleepy">
+    <!-- Œil gauche (demi-fermé) -->
+    <ellipse cx="75" cy="100" rx="13" ry="7" fill="white" stroke="#222" stroke-width="1"/>
+    <ellipse cx="75" cy="104" rx="6" ry="3" fill="#222"/>
+    <!-- Paupière -->
+    <path d="M 62 99 Q 75 94 88 99" stroke="#aaa" stroke-width="2" fill="none"/>
+    <!-- Œil droit (demi-fermé) -->
+    <ellipse cx="125" cy="100" rx="13" ry="7" fill="white" stroke="#222" stroke-width="1"/>
+    <ellipse cx="125" cy="104" rx="6" ry="3" fill="#222"/>
+    <!-- Paupière -->
+    <path d="M 112 99 Q 125 94 138 99" stroke="#aaa" stroke-width="2" fill="none"/>
+  </g>
+</svg>
