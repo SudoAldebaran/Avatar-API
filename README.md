@@ -82,9 +82,9 @@ Prérequis :
 ### Étapes d’installation :
 
 # Cloner le dépôt
-git clone https://github.com/SMaitriya/Avatar-Api.git
+git clone https://github.com/SudoAldebaran/Avatar-API.git
 
-cd Avatar-Api
+cd Avatar-API
 
 # Installer les dépendances PHP
 composer install
