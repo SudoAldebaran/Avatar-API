@@ -1,0 +1,9 @@
+.git
+vendor
+node_modules
+.env
+/storage/*.key
+npm-debug.log
+.env.backup
+/docker-compose.yml
+.DS_Store
